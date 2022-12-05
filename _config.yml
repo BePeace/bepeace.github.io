@@ -1,1 +1,3 @@
-theme: Architect
+# Build Settings
+markdown: kramdown
+theme: Cayman
