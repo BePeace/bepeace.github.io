@@ -1,3 +1,6 @@
 # Build Settings
-markdown: kramdown
-theme: Cayman
+title: Be Peace
+description: My Yaml file description
+twitter_username: Twitter username
+github_username: GitHub username
+theme: jekyll-theme-cayman
